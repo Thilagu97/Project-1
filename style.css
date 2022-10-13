@@ -1,0 +1,30 @@
+.heading {
+    padding: 20px;
+    text-align: center;
+}
+
+.content-1 p {
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 400px;
+}
+
+.btn {
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.pic img {
+    border-radius: 20px !important;
+}
+
+.image img {
+    border-radius: 20px;
+}
+
+@media (max-width:992px) {
+    .hh {
+        flex-direction: column-reverse;
+    }
+}
